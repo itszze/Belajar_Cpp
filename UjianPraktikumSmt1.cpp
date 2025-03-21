@@ -34,7 +34,7 @@ int main()
     cout <<"   ------------------------------------------" << endl;
     cout <<"   = Nama      : Meyze HadiShopia           =" << endl;
     cout <<"   = Nim       : 2023080188                 =" << endl;
-    cout <<"   = Instagram : itsmeyje                   =" << endl;
+    cout <<"   = Instagram : @itsmeyje                   =" << endl;
     cout <<"   ------------------------------------------" << endl << endl;
 
 
